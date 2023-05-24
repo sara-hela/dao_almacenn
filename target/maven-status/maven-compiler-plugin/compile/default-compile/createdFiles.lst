@@ -1,0 +1,5 @@
+com\mycompany\modelo\Aviso.class
+com\mycompany\controlador\Inicio.class
+com\mycompany\dao\AvisoDAO.class
+com\mycompany\utiles\ConexionDB.class
+com\mycompany\dao\AvisoDAOImpl.class
